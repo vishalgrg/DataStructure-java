@@ -5,7 +5,7 @@ import java.io.*;
 class SelectionSortString {
 	public static void main (String[] args) {
 	    
-	    SelectionSortString ob = new GFG(); 
+	    SelectionSortString ob = new SelectionSortString(); 
         	String inpit [] =  {"paper","true", "soap ","floppy", "flower"};
         
         System.out.println("Sorted array"); 
